@@ -7,7 +7,7 @@ A test app demonstrating how to use the socket interface exposed from Deviceworx
 This app has been created to provide xGATEWAY customers with a reference that they can use to develop their own client that uses or consumes the xGATEWAY socket interface.
 
 Note that the interface is documented within the xGATEWAY users guide. Consult the latest rev of the user's guide - availble for view or download from the [Deviceworx Downloads Page](https://www.deviceworx.com/downloads).
-A specific link to this viewable doc: [xGATEWAY HaLow User's Guide](https://www.deviceworx.com/assets/xGATEWAY_UsersGuideR1_10.pdf).
+A specific link to this viewable doc: [xGATEWAY HaLow User's Guide](https://www.deviceworx.com/assets/xGATEWAYUsersGuideR_2_5.pdf).
 > [!WARNING]
 > Update link above.
 # General Comments
